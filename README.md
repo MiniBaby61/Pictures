@@ -1,0 +1,2 @@
+# Pictures
+Typora图床
